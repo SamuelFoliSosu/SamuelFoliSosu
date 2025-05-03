@@ -52,10 +52,15 @@ I’m a tech-driven creative with a passion for building impactful systems and e
 
 ## 📫 Let's Connect
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/samuelfolisosu/)  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/samuelfolisosu/)
+- 🐦 **X (formerly Twitter)**: [@samuelfolisosu](https://x.com/samuelfolisosu) 
 - 🧾 [View My CV](https://drive.google.com/file/d/1KgIh686LLTUdXW38XCto9pWB8YAZ_IuG/view)
-- ✉️ Email: *samuel.foli.sosu@gmail.com*  
-- 💖 **Motto:** *"Be a safe space 🛡️, a source of courage 💪🏽, and the reason someone smiles 😊."*
+- ✉️ Email: *samuel.foli.sosu@gmail.com*
+- 🌍 **Website**: [my website](https://sites.google.com/view/samuel-foli-sosu/home)
+
+
+## 💖 **Motto:** 
+*"Be a safe space 🛡️, a source of courage 💪🏽, and the reason someone smiles 😊."*
 
 ---
 

@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## About Me 🚀
 
 Samuel Foli Sosu is an IT Manager, Scanning Projects Coordinator, and [Data Protection Supervisor](https://cdpscertificates.dataprotection.org.gh/b52a5af0-ded4-4441-9867-9d1e9a4cf1ad#acc.DEBfTJsR) at [Top Archive](https://top-archive.com), a leading records and information management company in Ghana. He is also an artist at heart, passionate about creating, problem-solving, and building systems that leave a lasting impact.
 
@@ -25,3 +26,9 @@ Samuel’s career is evolving toward full-stack development, driven by his love 
 
 Recognized for his dedication and excellence, he has received the Staff Appreciation Award (2023) and a Citation of Achievement (2020) for his leadership and contributions. 
 Whether in tech, music, or design, Samuel’s mission is clear: to be a safe space, a source of courage, and the reason someone smiles.
+
+## Get in Touch 📬
+
+- **[Personal Website / Blog]**(https://sites.google.com/view/samuel-foli-sosu/home)
+- **[LinkedIn]**(https://www.linkedin.com/in/samuel-foli-sosu/)
+- **[Twitter]**(https://x.com/samuelfolisosu)

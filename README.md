@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 
 # 👋 Hi there, I'm Samuel Foli Sosu
 
-🎯 **IT Manager | Scanning Projects Coordinator | Aspiring Full Stack Developer**  
-🇬🇭 Based in Ghana | 🌍 Tech collaborator across Africa & beyond
+🎯 **IT Manager 💼 | Scanning Projects Coordinator 🗂️ | Aspiring Full Stack Developer 👨🏽‍💻**  
+🇬🇭 **Proudly Ghanaian** | 🤝 **Tech collaborator across Africa & beyond** 🌍
 
 
 

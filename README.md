@@ -18,13 +18,13 @@ Here are some ideas to get you started:
 🎯 **IT Manager | Scanning Projects Coordinator | Aspiring Full Stack Developer**  
 🇬🇭 Based in Ghana | 🌍 Tech collaborator across Africa & beyond
 
----
+
 
 ## 🚀 About Me
 
 I’m a tech-driven creative with a passion for building impactful systems and experiences. With a strong foundation in enterprise IT, document digitization, and data protection, I’m currently transitioning into full-stack development — learning to turn ideas into scalable solutions.
 
----
+
 
 ## 💼 What I Do
 
@@ -33,7 +33,7 @@ I’m a tech-driven creative with a passion for building impactful systems and e
 - 🔐 **Data Protection Supervision** – Ensuring compliance and safeguarding sensitive data
 - 🛠️ **Backend Development** – Currently focused on server-side programming, databases, and APIs (SKILL BUILD IN PROGRESS)
 
----
+
 
 ## 🎨 Creative Side
 
@@ -41,14 +41,14 @@ I’m a tech-driven creative with a passion for building impactful systems and e
 - 🎶 **Musician-in-Training** – Learning piano & bass guitar  
 - ✨ Believer in the harmony between creativity and code  
 
----
+
 
 ## 🏆 Recognition
 
 - 🥇 **Staff Appreciation Award – 2023**  
 - 🏅 **Citation of Achievement – 2020**
 
----
+
 
 ## 📫 Let's Connect
 

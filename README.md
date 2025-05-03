@@ -29,6 +29,6 @@ Whether in tech, music, or design, Samuel’s mission is clear: to be a safe spa
 
 ## Get in Touch 📬
 
-- **[Personal Website / Blog]**(https://sites.google.com/view/samuel-foli-sosu/home)
-- **[LinkedIn]**(https://www.linkedin.com/in/samuel-foli-sosu/)
-- **[Twitter]**(https://x.com/samuelfolisosu)
+- **[Personal Website / Blog](https://sites.google.com/view/samuel-foli-sosu/home)**
+- **[LinkedIn](https://www.linkedin.com/in/samuel-foli-sosu/)**
+- **[Twitter](https://x.com/samuelfolisosu)**
